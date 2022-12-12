@@ -1,0 +1,1641 @@
+{
+"countries": [
+	{
+		"country_name" : "Afghanistan",
+		"capital_city" : "Kabul",
+		"country_short_code" : "AF",
+		"country_emoji" : "🇦🇫",
+		"timezone" : "Asia\/Kabul"
+	},
+	{
+		"country_name" : "Akrotiri and Dhekelia",
+		"capital_city" : "Episkopi Cantonment",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Etc\/GMT"
+	},
+	{
+		"country_name" : "Albania",
+		"capital_city" : "Tirana",
+		"country_short_code" : "AL",
+		"country_emoji" : "🇦🇱",
+		"timezone" : "CET"
+	},
+	{
+		"country_name" : "Algeria",
+		"capital_city" : "Algiers",
+		"country_short_code" : "DZ",
+		"country_emoji" : "🇩🇿",
+		"timezone" : "CET"
+	},
+	{
+		"country_name" : "Andorra",
+		"capital_city" : "Andorra la Vella",
+		"country_short_code" : "AD",
+		"country_emoji" : "🇦🇩",
+		"timezone" : "CET"
+	},
+	{
+		"country_name" : "Angola",
+		"capital_city" : "Luanda",
+		"country_short_code" : "AO",
+		"country_emoji" : "🇦🇴",
+		"timezone" : "Africa\/Luanda"
+	},
+	{
+		"country_name" : "Anguilla",
+		"capital_city" : "The Valley",
+		"country_short_code" : "AI",
+		"country_emoji" : "🇦🇮",
+		"timezone" : "America\/Anguilla"
+	},
+	{
+		"country_name" : "Antarctica\/British Antarctic Territory",
+		"capital_city" : "Rothera",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Antarctica\/Rothera"
+	},
+	{
+		"country_name" : "Antigua and Barbuda",
+		"capital_city" : "St. John's",
+		"country_short_code" : "AG",
+		"country_emoji" : "🇦🇬",
+		"timezone" : "America\/Antigua"
+	},
+	{
+		"country_name" : "Argentina",
+		"capital_city" : "Buenos Aires",
+		"country_short_code" : "AR",
+		"country_emoji" : "🇦🇷",
+		"timezone" : "America\/Argentina\/Buenos_Aires"
+	},
+	{
+		"country_name" : "Armenia",
+		"capital_city" : "Yerevan",
+		"country_short_code" : "AM",
+		"country_emoji" : "🇦🇲",
+		"timezone" : "Asia\/Yerevan"
+	},
+	{
+		"country_name" : "Aruba",
+		"capital_city" : "Oranjestad",
+		"country_short_code" : "AW",
+		"country_emoji" : "🇦🇼",
+		"timezone" : "America\/Aruba"
+	},
+	{
+		"country_name" : "Australia",
+		"capital_city" : "Canberra",
+		"country_short_code" : "AU",
+		"country_emoji" : "🇦🇺",
+		"timezone" : "Australia\/Canberra"
+	},
+	{
+		"country_name" : "Austria",
+		"capital_city" : "Vienna",
+		"country_short_code" : "AT",
+		"country_emoji" : "🇦🇹",
+		"timezone" : "Europe\/Vienna"
+	},
+	{
+		"country_name" : "Azerbaijan",
+		"capital_city" : "Baku",
+		"country_short_code" : "AZ",
+		"country_emoji" : "🇦🇿",
+		"timezone" : "Asia\/Baku"
+	},
+	{
+		"country_name" : "Bahrain",
+		"capital_city" : "Manama",
+		"country_short_code" : "BH",
+		"country_emoji" : "🇧🇭",
+		"timezone" : "Asia\/Bahrain"
+	},
+	{
+		"country_name" : "Bangladesh",
+		"capital_city" : "Dhaka",
+		"country_short_code" : "BD",
+		"country_emoji" : "🇧🇩",
+		"timezone" : "Asia\/Dhaka"
+	},
+	{
+		"country_name" : "Barbados",
+		"capital_city" : "Bridgetown",
+		"country_short_code" : "BB",
+		"country_emoji" : "🇧🇧",
+		"timezone" : "America\/Barbados"
+	},
+	{
+		"country_name" : "Belarus",
+		"capital_city" : "Minsk",
+		"country_short_code" : "BY",
+		"country_emoji" : "🇧🇾",
+		"timezone" : "Europe\/Minsk"
+	},
+	{
+		"country_name" : "Belgium",
+		"capital_city" : "Brussels",
+		"country_short_code" : "BE",
+		"country_emoji" : "🇧🇪",
+		"timezone" : "Europe\/Brussels"
+	},
+	{
+		"country_name" : "Belize",
+		"capital_city" : "Belmopan",
+		"country_short_code" : "BZ",
+		"country_emoji" : "🇧🇿",
+		"timezone" : "America\/Belize"
+	},
+	{
+		"country_name" : "Benin",
+		"capital_city" : "Porto-Novo",
+		"country_short_code" : "BJ",
+		"country_emoji" : "🇧🇯",
+		"timezone" : "Africa\/Porto-Novo"
+	},
+	{
+		"country_name" : "Bermuda",
+		"capital_city" : "Hamilton",
+		"country_short_code" : "BM",
+		"country_emoji" : "🇧🇲",
+		"timezone" : "Atlantic\/Bermuda"
+	},
+	{
+		"country_name" : "Bhutan",
+		"capital_city" : "Thimphu",
+		"country_short_code" : "BT",
+		"country_emoji" : "🇧🇹",
+		"timezone" : "Asia\/Thimphu"
+	},
+	{
+		"country_name" : "Bolivia",
+		"capital_city" : "Sucre",
+		"country_short_code" : "BO",
+		"country_emoji" : "🇧🇴",
+		"timezone" : "America\/La_Paz"
+	},
+	{
+		"country_name" : "Bonaire, Sint Eustatius and Saba",
+		"capital_city" : "Oranjestad",
+		"country_short_code" : "BQ",
+		"country_emoji" : "🇧🇶",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Bosnia and Herzegovina",
+		"capital_city" : "Sarajevo",
+		"country_short_code" : "BA",
+		"country_emoji" : "🇧🇦",
+		"timezone" : "Europe\/Sarajevo"
+	},
+	{
+		"country_name" : "Botswana",
+		"capital_city" : "Gaborone",
+		"country_short_code" : "BW",
+		"country_emoji" : "🇧🇼",
+		"timezone" : "Africa\/Gaborone"
+	},
+	{
+		"country_name" : "Brazil",
+		"capital_city" : "Brasília",
+		"country_short_code" : "BR",
+		"country_emoji" : "🇧🇷",
+		"timezone" : "America\/Rio_Branco"
+	},
+	{
+		"country_name" : "British Indian Ocean Territory",
+		"capital_city" : "Camp Justice",
+		"country_short_code" : "IO",
+		"country_emoji" : "🇮🇴",
+		"timezone" : "Etc\/GMT-6"
+	},
+	{
+		"country_name" : "British Virgin Islands",
+		"capital_city" : "Road Town",
+		"country_short_code" : "VG",
+		"country_emoji" : "🇻🇬",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Brunei",
+		"capital_city" : "Bandar Seri Begawan",
+		"country_short_code" : "BN",
+		"country_emoji" : "🇧🇳",
+		"timezone" : "Asia\/Brunei"
+	},
+	{
+		"country_name" : "Bulgaria",
+		"capital_city" : "Sofia",
+		"country_short_code" : "BG",
+		"country_emoji" : "🇧🇬",
+		"timezone" : "Europe\/Sofia"
+	},
+	{
+		"country_name" : "Burkina Faso",
+		"capital_city" : "Ouagadougou",
+		"country_short_code" : "BF",
+		"country_emoji" : "🇧🇫",
+		"timezone" : "Africa\/Ouagadougou"
+	},
+	{
+		"country_name" : "Burundi",
+		"capital_city" : "Bujumbura",
+		"country_short_code" : "BI",
+		"country_emoji" : "🇧🇮",
+		"timezone" : "Africa\/Bujumbura"
+	},
+	{
+		"country_name" : "Cambodia",
+		"capital_city" : "Phnom Penh",
+		"country_short_code" : "KH",
+		"country_emoji" : "🇰🇭",
+		"timezone" : "Asia\/Phnom_Penh"
+	},
+	{
+		"country_name" : "Cameroon",
+		"capital_city" : "Yaoundé",
+		"country_short_code" : "CM",
+		"country_emoji" : "🇨🇲",
+		"timezone" : "Africa\/Douala"
+	},
+	{
+		"country_name" : "Canada",
+		"capital_city" : "Ottawa",
+		"country_short_code" : "CA",
+		"country_emoji" : "🇨🇦",
+		"timezone" : "Canada\/Eastern"
+	},
+	{
+		"country_name" : "Cape Verde",
+		"capital_city" : "Praia",
+		"country_short_code" : "CV",
+		"country_emoji" : "🇨🇻",
+		"timezone" : "Atlantic\/Cape_Verde"
+	},
+	{
+		"country_name" : "Cayman Islands",
+		"capital_city" : "George Town",
+		"country_short_code" : "KY",
+		"country_emoji" : "🇰🇾",
+		"timezone" : "EST"
+	},
+	{
+		"country_name" : "Central African Republic",
+		"capital_city" : "Bangui",
+		"country_short_code" : "CF",
+		"country_emoji" : "🇨🇫",
+		"timezone" : "Africa\/Bangui"
+	},
+	{
+		"country_name" : "Chad",
+		"capital_city" : "N'Djamena",
+		"country_short_code" : "TD",
+		"country_emoji" : "🇹🇩",
+		"timezone" : "Africa\/Ndjamena"
+	},
+	{
+		"country_name" : "Chile",
+		"capital_city" : "Santiago",
+		"country_short_code" : "CL",
+		"country_emoji" : "🇨🇱",
+		"timezone" : "America\/Santiago"
+	},
+	{
+		"country_name" : "China",
+		"capital_city" : "Beijing",
+		"country_short_code" : "CN",
+		"country_emoji" : "🇨🇳",
+		"timezone" : "Asia\/Shanghai"
+	},
+	{
+		"country_name" : "Colombia",
+		"capital_city" : "Bogotá",
+		"country_short_code" : "CO",
+		"country_emoji" : "🇨🇴",
+		"timezone" : "America\/Bogota"
+	},
+	{
+		"country_name" : "Comoros",
+		"capital_city" : "Moroni",
+		"country_short_code" : "KM",
+		"country_emoji" : "🇨🇨",
+		"timezone" : "Etc\/GMT-3"
+	},
+	{
+		"country_name" : "Congo",
+		"capital_city" : "Brazzavillez",
+		"country_short_code" : "CG",
+		"country_emoji" : "🇨🇬",
+		"timezone" : "Africa\/Brazzaville"
+	},
+	{
+		"country_name" : "Congo (Democratic Republic)",
+		"capital_city" : "Kinshasa",
+		"country_short_code" : "CD",
+		"country_emoji" : "🇨🇩",
+		"timezone" : "Africa\/Kinshasa"
+	},
+	{
+		"country_name" : "Cook Islands, Tokelau and Niue",
+		"capital_city" : "Avarua District, Nukunonu, Alofi",
+		"country_short_code" : "CK",
+		"country_emoji" : "🇨🇰",
+		"timezone" : "Etc\/GMT+10"
+	},
+	{
+		"country_name" : "Costa Rica",
+		"capital_city" : "San José",
+		"country_short_code" : "CR",
+		"country_emoji" : "🇨🇷",
+		"timezone" : "America\/Costa_Rica"
+	},
+	{
+		"country_name" : "Croatia",
+		"capital_city" : "Zagreb",
+		"country_short_code" : "HR",
+		"country_emoji" : "🇭🇷",
+		"timezone" : "Europe\/Zagreb"
+	},
+	{
+		"country_name" : "Cuba",
+		"capital_city" : "Havana",
+		"country_short_code" : "CU",
+		"country_emoji" : "🇨🇺",
+		"timezone" : "America\/Havana"
+	},
+	{
+		"country_name" : "Curaçao",
+		"capital_city" : "Willemstad",
+		"country_short_code" : "CW",
+		"country_emoji" : "🇨🇼",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Cyprus",
+		"capital_city" : "Nicosia",
+		"country_short_code" : "CY",
+		"country_emoji" : "🇨🇾",
+		"timezone" : "Asia\/Nicosia"
+	},
+	{
+		"country_name" : "Czech Republic (Czechia)",
+		"capital_city" : "Prague",
+		"country_short_code" : "CZ",
+		"country_emoji" : "🇨🇿",
+		"timezone" : "Europe\/Prague"
+	},
+	{
+		"country_name" : "Côte d’Ivoire",
+		"capital_city" : "Yamoussoukro",
+		"country_short_code" : "CI",
+		"country_emoji" : "🇨🇮",
+		"timezone" : "Africa\/Abidjan"
+	},
+	{
+		"country_name" : "Denmark",
+		"capital_city" : "Copenhagen",
+		"country_short_code" : "DK",
+		"country_emoji" : "🇩🇰",
+		"timezone" : "Europe\/Copenhagen"
+	},
+	{
+		"country_name" : "Djibouti",
+		"capital_city" : "Djibouti",
+		"country_short_code" : "DJ",
+		"country_emoji" : "🇩🇯",
+		"timezone" : "Africa\/Djibouti"
+	},
+	{
+		"country_name" : "Dominica",
+		"capital_city" : "Roseau",
+		"country_short_code" : "DM",
+		"country_emoji" : "🇩🇲",
+		"timezone" : "America\/Dominica"
+	},
+	{
+		"country_name" : "Dominican Republic",
+		"capital_city" : "Santo Domingo",
+		"country_short_code" : "DO",
+		"country_emoji" : "🇩🇴",
+		"timezone" : "America\/Santo_Domingo"
+	},
+	{
+		"country_name" : "Ecuador",
+		"capital_city" : "Quito",
+		"country_short_code" : "EC",
+		"country_emoji" : "🇪🇨",
+		"timezone" : "America\/Guayaquil"
+	},
+	{
+		"country_name" : "Egypt",
+		"capital_city" : "Cairo",
+		"country_short_code" : "EG",
+		"country_emoji" : "🇪🇬",
+		"timezone" : "Africa\/Cairo"
+	},
+	{
+		"country_name" : "El Salvador",
+		"capital_city" : "San Salvador",
+		"country_short_code" : "SV",
+		"country_emoji" : "🇸🇻",
+		"timezone" : "America\/El_Salvador"
+	},
+	{
+		"country_name" : "Equatorial Guinea",
+		"capital_city" : "Malabo",
+		"country_short_code" : "GQ",
+		"country_emoji" : "🇬🇶",
+		"timezone" : "Africa\/Malabo"
+	},
+	{
+		"country_name" : "Eritrea",
+		"capital_city" : "Asmara",
+		"country_short_code" : "ER",
+		"country_emoji" : "🇪🇷",
+		"timezone" : "Africa\/Asmera"
+	},
+	{
+		"country_name" : "Estonia",
+		"capital_city" : "Tallinn",
+		"country_short_code" : "EE",
+		"country_emoji" : "🇪🇪",
+		"timezone" : "Europe\/Tallinn"
+	},
+	{
+		"country_name" : "Eswatini",
+		"capital_city" : "Mbabane, Lobamba",
+		"country_short_code" : "SZ",
+		"country_emoji" : "🇸🇿",
+		"timezone" : "Africa\/Mbabane"
+	},
+	{
+		"country_name" : "Ethiopia",
+		"capital_city" : "Addis Ababa",
+		"country_short_code" : "ET",
+		"country_emoji" : "🇪🇹",
+		"timezone" : "Africa\/Addis_Ababa"
+	},
+	{
+		"country_name" : "Falkland Islands",
+		"capital_city" : "Stanley",
+		"country_short_code" : "FK",
+		"country_emoji" : "🇫🇰",
+		"timezone" : "Etc\/GMT+3"
+	},
+	{
+		"country_name" : "Faroe Islands",
+		"capital_city" : "Tórshavn",
+		"country_short_code" : "FO",
+		"country_emoji" : "🇫🇴",
+		"timezone" : "GMT"
+	},
+	{
+		"country_name" : "Fiji",
+		"capital_city" : "Suva",
+		"country_short_code" : "FJ",
+		"country_emoji" : "🇫🇯",
+		"timezone" : "Pacific\/Fiji"
+	},
+	{
+		"country_name" : "Finland",
+		"capital_city" : "Helsinki",
+		"country_short_code" : "FI",
+		"country_emoji" : "🇫🇮",
+		"timezone" : "Europe\/Helsinki"
+	},
+	{
+		"country_name" : "France",
+		"capital_city" : "Paris",
+		"country_short_code" : "FR",
+		"country_emoji" : "🇫🇷",
+		"timezone" : "Europe\/Paris"
+	},
+	{
+		"country_name" : "French Guiana",
+		"capital_city" : "Cayenne",
+		"country_short_code" : "GF",
+		"country_emoji" : "🇬🇫",
+		"timezone" : "Etc\/GMT+3"
+	},
+	{
+		"country_name" : "French Polynesia",
+		"capital_city" : "Papeete",
+		"country_short_code" : "PF",
+		"country_emoji" : "🇵🇫",
+		"timezone" : "Etc\/GMT+10"
+	},
+	{
+		"country_name" : "Gabon",
+		"capital_city" : "Libreville",
+		"country_short_code" : "GA",
+		"country_emoji" : "🇬🇦",
+		"timezone" : "Africa\/Libreville"
+	},
+	{
+		"country_name" : "Georgia",
+		"capital_city" : "Tbilisi",
+		"country_short_code" : "GE",
+		"country_emoji" : "🇬🇪",
+		"timezone" : "Asia\/Tbilisi"
+	},
+	{
+		"country_name" : "Germany",
+		"capital_city" : "Berlin",
+		"country_short_code" : "DE",
+		"country_emoji" : "🇩🇪",
+		"timezone" : "Europe\/Berlin"
+	},
+	{
+		"country_name" : "Ghana",
+		"capital_city" : "Accra",
+		"country_short_code" : "GH",
+		"country_emoji" : "🇬🇭",
+		"timezone" : "Africa\/Accra"
+	},
+	{
+		"country_name" : "Gibraltar",
+		"capital_city" : "Gibraltar",
+		"country_short_code" : "GI",
+		"country_emoji" : "🇬🇮",
+		"timezone" : "CET"
+	},
+	{
+		"country_name" : "Greece (including islands)",
+		"capital_city" : "Athens",
+		"country_short_code" : "GR",
+		"country_emoji" : "🇬🇷",
+		"timezone" : "Europe\/Athens"
+	},
+	{
+		"country_name" : "Greenland",
+		"capital_city" : "Nuuk",
+		"country_short_code" : "GL",
+		"country_emoji" : "🇬🇱",
+		"timezone" : "Etc\/GMT+3"
+	},
+	{
+		"country_name" : "Grenada",
+		"capital_city" : "St. George's",
+		"country_short_code" : "GD",
+		"country_emoji" : "🇬🇩",
+		"timezone" : "America\/Grenada"
+	},
+	{
+		"country_name" : "Guadeloupe",
+		"capital_city" : "Basse-Terre",
+		"country_short_code" : "GP",
+		"country_emoji" : "🇬🇵",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Guatemala",
+		"capital_city" : "Guatemala City",
+		"country_short_code" : "GT",
+		"country_emoji" : "🇬🇹",
+		"timezone" : "America\/Guatemala"
+	},
+	{
+		"country_name" : "Guinea",
+		"capital_city" : "Conakry",
+		"country_short_code" : "GN",
+		"country_emoji" : "🇬🇳",
+		"timezone" : "Africa\/Conakry"
+	},
+	{
+		"country_name" : "Guinea-Bissau",
+		"capital_city" : "Bissau",
+		"country_short_code" : "GW",
+		"country_emoji" : "🇬🇼",
+		"timezone" : "Africa\/Bissau"
+	},
+	{
+		"country_name" : "Guyana",
+		"capital_city" : "Georgetown",
+		"country_short_code" : "GY",
+		"country_emoji" : "🇬🇾",
+		"timezone" : "America\/Guyana"
+	},
+	{
+		"country_name" : "Haiti",
+		"capital_city" : "Port-au-Prince",
+		"country_short_code" : "HT",
+		"country_emoji" : "🇭🇹",
+		"timezone" : "America\/Guatemala"
+	},
+	{
+		"country_name" : "Honduras",
+		"capital_city" : "Tegucigalpa",
+		"country_short_code" : "HN",
+		"country_emoji" : "🇭🇳",
+		"timezone" : "America\/Tegucigalpa"
+	},
+	{
+		"country_name" : "Hong Kong",
+		"capital_city" : "Beijing",
+		"country_short_code" : "HK",
+		"country_emoji" : "🇭🇰",
+		"timezone" : "Asia\/Shanghai"
+	},
+	{
+		"country_name" : "Hungary",
+		"capital_city" : "Budapest",
+		"country_short_code" : "HU",
+		"country_emoji" : "🇭🇺",
+		"timezone" : "Europe\/Budapest"
+	},
+	{
+		"country_name" : "Iceland",
+		"capital_city" : "Reykjavík",
+		"country_short_code" : "IS",
+		"country_emoji" : "🇮🇸",
+		"timezone" : "Atlantic\/Reykjavik"
+	},
+	{
+		"country_name" : "India",
+		"capital_city" : "New Delhi",
+		"country_short_code" : "IN",
+		"country_emoji" : "🇮🇳",
+		"timezone" : "Asia\/Calcutta"
+	},
+	{
+		"country_name" : "Indonesia",
+		"capital_city" : "Jakarta",
+		"country_short_code" : "ID",
+		"country_emoji" : "🇮🇩",
+		"timezone" : "Asia\/Jakarta"
+	},
+	{
+		"country_name" : "Iran",
+		"capital_city" : "Tehran",
+		"country_short_code" : "IR",
+		"country_emoji" : "🇮🇷",
+		"timezone" : "Asia\/Tehran"
+	},
+	{
+		"country_name" : "Iraq",
+		"capital_city" : "Baghdad",
+		"country_short_code" : "IQ",
+		"country_emoji" : "🇮🇶",
+		"timezone" : "Asia\/Baghdad"
+	},
+	{
+		"country_name" : "Israel",
+		"capital_city" : "Jerusalem",
+		"country_short_code" : "IL",
+		"country_emoji" : "🇮🇱",
+		"timezone" : "Asia\/Jerusalem"
+	},
+	{
+		"country_name" : "Italy",
+		"capital_city" : "Rome",
+		"country_short_code" : "IT",
+		"country_emoji" : "🇮🇹",
+		"timezone" : "Europe\/Rome"
+	},
+	{
+		"country_name" : "Jamaica",
+		"capital_city" : "Kingston",
+		"country_short_code" : "JM",
+		"country_emoji" : "🇯🇲",
+		"timezone" : "America\/Jamaica"
+	},
+	{
+		"country_name" : "Japan",
+		"capital_city" : "Tokyo",
+		"country_short_code" : "JP",
+		"country_emoji" : "🇯🇵",
+		"timezone" : "Asia\/Tokyo"
+	},
+	{
+		"country_name" : "Jordan",
+		"capital_city" : "Amman",
+		"country_short_code" : "JO",
+		"country_emoji" : "🇯🇴",
+		"timezone" : "Asia\/Amman"
+	},
+	{
+		"country_name" : "Kazakhstan",
+		"capital_city" : "Nur-Sultan",
+		"country_short_code" : "KZ",
+		"country_emoji" : "🇰🇿",
+		"timezone" : "Asia\/Almaty"
+	},
+	{
+		"country_name" : "Kenya",
+		"capital_city" : "Nairobi",
+		"country_short_code" : "KE",
+		"country_emoji" : "🇰🇪",
+		"timezone" : "Africa\/Nairobi"
+	},
+	{
+		"country_name" : "Kiribati",
+		"capital_city" : "Tarawa",
+		"country_short_code" : "KI",
+		"country_emoji" : "🇰🇮",
+		"timezone" : "Pacific\/Tarawa"
+	},
+	{
+		"country_name" : "Kosovo",
+		"capital_city" : "Pristina",
+		"country_short_code" : "XK",
+		"country_emoji" : "🇽🇰",
+		"timezone" : "CET"
+	},
+	{
+		"country_name" : "Kuwait",
+		"capital_city" : "Kuwait City",
+		"country_short_code" : "KW",
+		"country_emoji" : "🇰🇼",
+		"timezone" : "Asia\/Kuwait"
+	},
+	{
+		"country_name" : "Kyrgyzstan",
+		"capital_city" : "Bishkek",
+		"country_short_code" : "KG",
+		"country_emoji" : "🇰🇬",
+		"timezone" : "Asia\/Bishkek"
+	},
+	{
+		"country_name" : "Laos",
+		"capital_city" : "Vientiane",
+		"country_short_code" : "LA",
+		"country_emoji" : "🇱🇦",
+		"timezone" : "Asia\/Vientiane"
+	},
+	{
+		"country_name" : "Latvia",
+		"capital_city" : "Riga",
+		"country_short_code" : "LV",
+		"country_emoji" : "🇱🇻",
+		"timezone" : "Europe\/Riga"
+	},
+	{
+		"country_name" : "Lebanon",
+		"capital_city" : "Beirut",
+		"country_short_code" : "LB",
+		"country_emoji" : "🇱🇧",
+		"timezone" : "Asia\/Beirut"
+	},
+	{
+		"country_name" : "Lesotho",
+		"capital_city" : "Maseru",
+		"country_short_code" : "LS",
+		"country_emoji" : "🇱🇸",
+		"timezone" : "Africa\/Maseru"
+	},
+	{
+		"country_name" : "Liberia",
+		"capital_city" : "Monrovia",
+		"country_short_code" : "LR",
+		"country_emoji" : "🇱🇷",
+		"timezone" : "Africa\/Monrovia"
+	},
+	{
+		"country_name" : "Libya",
+		"capital_city" : "Tripoli",
+		"country_short_code" : "LY",
+		"country_emoji" : "🇱🇾",
+		"timezone" : "Africa\/Tripoli"
+	},
+	{
+		"country_name" : "Liechtenstein",
+		"capital_city" : "Vaduz",
+		"country_short_code" : "LI",
+		"country_emoji" : "🇱🇮",
+		"timezone" : "Europe\/Vaduz"
+	},
+	{
+		"country_name" : "Lithuania",
+		"capital_city" : "Vilnius",
+		"country_short_code" : "LT",
+		"country_emoji" : "🇱🇹",
+		"timezone" : "Europe\/Vilnius"
+	},
+	{
+		"country_name" : "Luxembourg",
+		"capital_city" : "Luxembourg City",
+		"country_short_code" : "LU",
+		"country_emoji" : "🇱🇺",
+		"timezone" : "Europe\/Luxembourg"
+	},
+	{
+		"country_name" : "Macao",
+		"capital_city" : "Beijing",
+		"country_short_code" : "MO",
+		"country_emoji" : "🇲🇴",
+		"timezone" : "Asia\/Shanghai"
+	},
+	{
+		"country_name" : "Madagascar",
+		"capital_city" : "Antananarivo",
+		"country_short_code" : "MG",
+		"country_emoji" : "🇲🇬",
+		"timezone" : "Indian\/Antananarivo"
+	},
+	{
+		"country_name" : "Madeira",
+		"capital_city" : "Funchal",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Atlantic\/Madeira"
+	},
+	{
+		"country_name" : "Malawi",
+		"capital_city" : "Lilongwe",
+		"country_short_code" : "MW",
+		"country_emoji" : "🇲🇼",
+		"timezone" : "Africa\/Blantyre"
+	},
+	{
+		"country_name" : "Malaysia",
+		"capital_city" : "Kuala Lumpur",
+		"country_short_code" : "MY",
+		"country_emoji" : "🇲🇾",
+		"timezone" : "Asia\/Kuala_Lumpur"
+	},
+	{
+		"country_name" : "Maldives",
+		"capital_city" : "Malé",
+		"country_short_code" : "MV",
+		"country_emoji" : "🇲🇻",
+		"timezone" : "Indian\/Maldives"
+	},
+	{
+		"country_name" : "Mali",
+		"capital_city" : "Bamako",
+		"country_short_code" : "ML",
+		"country_emoji" : "🇲🇱",
+		"timezone" : "Africa\/Bamako"
+	},
+	{
+		"country_name" : "Malta",
+		"capital_city" : "Valletta",
+		"country_short_code" : "MT",
+		"country_emoji" : "🇲🇹",
+		"timezone" : "Europe\/Malta"
+	},
+	{
+		"country_name" : "Marshall Islands",
+		"capital_city" : "Majuro",
+		"country_short_code" : "MH",
+		"country_emoji" : "🇲🇭",
+		"timezone" : "Pacific\/Majuro"
+	},
+	{
+		"country_name" : "Martinique",
+		"capital_city" : "Fort-de-France",
+		"country_short_code" : "MQ",
+		"country_emoji" : "🇲🇶",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Mauritania",
+		"capital_city" : "Nouakchott",
+		"country_short_code" : "MR",
+		"country_emoji" : "🇲🇷",
+		"timezone" : "Africa\/Nouakchott"
+	},
+	{
+		"country_name" : "Mauritius",
+		"capital_city" : "Port Louis",
+		"country_short_code" : "MU",
+		"country_emoji" : "🇲🇺",
+		"timezone" : "Indian\/Mauritius"
+	},
+	{
+		"country_name" : "Mayotte",
+		"capital_city" : "Mamoudzou",
+		"country_short_code" : "YT",
+		"country_emoji" : "🇾🇹",
+		"timezone" : "Etc\/GMT-3"
+	},
+	{
+		"country_name" : "Mexico",
+		"capital_city" : "Mexico City",
+		"country_short_code" : "MX",
+		"country_emoji" : "🇲🇽",
+		"timezone" : "America\/Mexico_City"
+	},
+	{
+		"country_name" : "Micronesia",
+		"capital_city" : "Palikir",
+		"country_short_code" : "FM",
+		"country_emoji" : "🇫🇲",
+		"timezone" : "Pacific\/Ponape"
+	},
+	{
+		"country_name" : "Moldova",
+		"capital_city" : "Chișinău",
+		"country_short_code" : "MD",
+		"country_emoji" : "🇲🇩",
+		"timezone" : "Europe\/Chisinau"
+	},
+	{
+		"country_name" : "Monaco",
+		"capital_city" : "Monaco",
+		"country_short_code" : "MC",
+		"country_emoji" : "🇲🇨",
+		"timezone" : "Europe\/Monaco"
+	},
+	{
+		"country_name" : "Mongolia",
+		"capital_city" : "Ulaanbaatar",
+		"country_short_code" : "MN",
+		"country_emoji" : "🇲🇳",
+		"timezone" : "Asia\/Ulaanbaatar"
+	},
+	{
+		"country_name" : "Montenegro",
+		"capital_city" : "Podgorica",
+		"country_short_code" : "ME",
+		"country_emoji" : "🇲🇪",
+		"timezone" : "Europe\/Podgorica"
+	},
+	{
+		"country_name" : "Montserrat",
+		"capital_city" : "Plymouth",
+		"country_short_code" : "MS",
+		"country_emoji" : "🇲🇸",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Morocco",
+		"capital_city" : "Rabat",
+		"country_short_code" : "MA",
+		"country_emoji" : "🇲🇦",
+		"timezone" : "Africa\/Casablanca"
+	},
+	{
+		"country_name" : "Mozambique",
+		"capital_city" : "Maputo",
+		"country_short_code" : "MZ",
+		"country_emoji" : "🇲🇿",
+		"timezone" : "Africa\/Maputo"
+	},
+	{
+		"country_name" : "Myanmar",
+		"capital_city" : "Naypyidaw",
+		"country_short_code" : "MM",
+		"country_emoji" : "🇲🇲",
+		"timezone" : "Asia\/Rangoon"
+	},
+	{
+		"country_name" : "Namibia",
+		"capital_city" : "Windhoek",
+		"country_short_code" : "NA",
+		"country_emoji" : "🇳🇦",
+		"timezone" : "Africa\/Windhoek"
+	},
+	{
+		"country_name" : "Nauru",
+		"capital_city" : "Yaren",
+		"country_short_code" : "NR",
+		"country_emoji" : "🇳🇷",
+		"timezone" : "Pacific\/Nauru"
+	},
+	{
+		"country_name" : "Nepal",
+		"capital_city" : "Kathmandu",
+		"country_short_code" : "NP",
+		"country_emoji" : "🇳🇵",
+		"timezone" : "Asia\/Katmandu"
+	},
+	{
+		"country_name" : "Netherlands",
+		"capital_city" : "Amsterdam",
+		"country_short_code" : "NL",
+		"country_emoji" : "🇳🇱",
+		"timezone" : "Europe\/Amsterdam"
+	},
+	{
+		"country_name" : "New Caledonia",
+		"capital_city" : "Nouméa",
+		"country_short_code" : "NC",
+		"country_emoji" : "🇳🇨",
+		"timezone" : "Etc\/GMT-11"
+	},
+	{
+		"country_name" : "New Zealand",
+		"capital_city" : "Wellington",
+		"country_short_code" : "NZ",
+		"country_emoji" : "🇳🇿",
+		"timezone" : "Pacific\/Auckland"
+	},
+	{
+		"country_name" : "Nicaragua",
+		"capital_city" : "Managua",
+		"country_short_code" : "NI",
+		"country_emoji" : "🇳🇮",
+		"timezone" : "America\/Managua"
+	},
+	{
+		"country_name" : "Niger",
+		"capital_city" : "Niamey",
+		"country_short_code" : "NE",
+		"country_emoji" : "🇳🇪",
+		"timezone" : "Africa\/Niamey"
+	},
+	{
+		"country_name" : "Nigeria",
+		"capital_city" : "Abuja",
+		"country_short_code" : "NG",
+		"country_emoji" : "🇳🇬",
+		"timezone" : "Africa\/Lagos"
+	},
+	{
+		"country_name" : "North Korea",
+		"capital_city" : "Pyongyang",
+		"country_short_code" : "KP",
+		"country_emoji" : "🇰🇵",
+		"timezone" : "Asia\/Pyongyang"
+	},
+	{
+		"country_name" : "North Macedonia",
+		"capital_city" : "Skopje",
+		"country_short_code" : "MK",
+		"country_emoji" : "🇲🇰",
+		"timezone" : "Europe\/Skopje"
+	},
+	{
+		"country_name" : "Norway",
+		"capital_city" : "Oslo",
+		"country_short_code" : "NO",
+		"country_emoji" : "🇳🇴",
+		"timezone" : "Europe\/Oslo"
+	},
+	{
+		"country_name" : "Oman",
+		"capital_city" : "Muscat",
+		"country_short_code" : "OM",
+		"country_emoji" : "🇴🇲",
+		"timezone" : "Asia\/Muscat"
+	},
+	{
+		"country_name" : "Pakistan",
+		"capital_city" : "Islamabad",
+		"country_short_code" : "PK",
+		"country_emoji" : "🇵🇰",
+		"timezone" : "Asia\/Karachi"
+	},
+	{
+		"country_name" : "Palau",
+		"capital_city" : "Ngerulmud",
+		"country_short_code" : "PW",
+		"country_emoji" : "🇵🇼",
+		"timezone" : "Pacific\/Palau"
+	},
+	{
+		"country_name" : "Panama",
+		"capital_city" : "Panama City",
+		"country_short_code" : "PA",
+		"country_emoji" : "🇵🇦",
+		"timezone" : "America\/Panama"
+	},
+	{
+		"country_name" : "Papua New Guinea",
+		"capital_city" : "Port Moresby",
+		"country_short_code" : "PG",
+		"country_emoji" : "🇵🇬",
+		"timezone" : "Pacific\/Port_Moresby"
+	},
+	{
+		"country_name" : "Paraguay",
+		"capital_city" : "Asunción",
+		"country_short_code" : "PY",
+		"country_emoji" : "🇵🇾",
+		"timezone" : "America\/Asuncion"
+	},
+	{
+		"country_name" : "Peru",
+		"capital_city" : "Lima",
+		"country_short_code" : "PE",
+		"country_emoji" : "🇵🇪",
+		"timezone" : "America\/Lima"
+	},
+	{
+		"country_name" : "Philippines",
+		"capital_city" : "Manila",
+		"country_short_code" : "PH",
+		"country_emoji" : "🇵🇭",
+		"timezone" : "Asia\/Manila"
+	},
+	{
+		"country_name" : "Pitcairn, Henderson, Ducie and Oeno Islands",
+		"capital_city" : "Adamstown",
+		"country_short_code" : "PN",
+		"country_emoji" : "🇵🇳",
+		"timezone" : "Etc\/GMT+8"
+	},
+	{
+		"country_name" : "Poland",
+		"capital_city" : "Warsaw",
+		"country_short_code" : "PL",
+		"country_emoji" : "🇵🇱",
+		"timezone" : "Europe\/Warsaw"
+	},
+	{
+		"country_name" : "Portugal (including the Azores)",
+		"capital_city" : "Lisbon",
+		"country_short_code" : "PT",
+		"country_emoji" : "🇵🇹",
+		"timezone" : "Europe\/Lisbon"
+	},
+	{
+		"country_name" : "Qatar",
+		"capital_city" : "Doha",
+		"country_short_code" : "QA",
+		"country_emoji" : "🇶🇦",
+		"timezone" : "Asia\/Qatar"
+	},
+	{
+		"country_name" : "Romania",
+		"capital_city" : "Bucharest",
+		"country_short_code" : "RO",
+		"country_emoji" : "🇷🇴",
+		"timezone" : "Europe\/Bucharest"
+	},
+	{
+		"country_name" : "Russia",
+		"capital_city" : "Moscow",
+		"country_short_code" : "RU",
+		"country_emoji" : "🇷🇺",
+		"timezone" : "Europe\/Moscow"
+	},
+	{
+		"country_name" : "Rwanda",
+		"capital_city" : "Kigali",
+		"country_short_code" : "RW",
+		"country_emoji" : "🇷🇼",
+		"timezone" : "Africa\/Kigali"
+	},
+	{
+		"country_name" : "Réunion",
+		"capital_city" : "Saint-Denis",
+		"country_short_code" : "RE",
+		"country_emoji" : "🇷🇪",
+		"timezone" : "Etc\/GMT-4"
+	},
+	{
+		"country_name" : "Samoa",
+		"capital_city" : "Apia",
+		"country_short_code" : "WS",
+		"country_emoji" : "🇼🇸",
+		"timezone" : "Pacific\/Apia"
+	},
+	{
+		"country_name" : "San Marino",
+		"capital_city" : "San Marino",
+		"country_short_code" : "SM",
+		"country_emoji" : "🇸🇲",
+		"timezone" : "Europe\/San_Marino"
+	},
+	{
+		"country_name" : "Sao Tome and Principe",
+		"capital_city" : "São Tomé",
+		"country_short_code" : "ST",
+		"country_emoji" : "🇸🇹",
+		"timezone" : "GMT"
+	},
+	{
+		"country_name" : "Saudi Arabia",
+		"capital_city" : "Riyadh",
+		"country_short_code" : "SA",
+		"country_emoji" : "🇸🇦",
+		"timezone" : "Asia\/Riyadh"
+	},
+	{
+		"country_name" : "Senegal",
+		"capital_city" : "Dakar",
+		"country_short_code" : "SN",
+		"country_emoji" : "🇸🇳",
+		"timezone" : "Africa\/Dakar"
+	},
+	{
+		"country_name" : "Serbia",
+		"capital_city" : "Belgrade",
+		"country_short_code" : "RS",
+		"country_emoji" : "🇷🇸",
+		"timezone" : "Europe\/Belgrade"
+	},
+	{
+		"country_name" : "Seychelles",
+		"capital_city" : "Victoria",
+		"country_short_code" : "SC",
+		"country_emoji" : "🇸🇨",
+		"timezone" : "Indian\/Mahe"
+	},
+	{
+		"country_name" : "Sierra Leone",
+		"capital_city" : "Freetown",
+		"country_short_code" : "SL",
+		"country_emoji" : "🇸🇱",
+		"timezone" : "Africa\/Freetown"
+	},
+	{
+		"country_name" : "Singapore",
+		"capital_city" : "Singapore",
+		"country_short_code" : "SG",
+		"country_emoji" : "🇸🇬",
+		"timezone" : "Asia\/Singapore"
+	},
+	{
+		"country_name" : "Slovakia",
+		"capital_city" : "Bratislava",
+		"country_short_code" : "SK",
+		"country_emoji" : "🇸🇰",
+		"timezone" : "Europe\/Bratislava"
+	},
+	{
+		"country_name" : "Slovenia",
+		"capital_city" : "Ljubljana",
+		"country_short_code" : "SI",
+		"country_emoji" : "🇸🇮",
+		"timezone" : "Europe\/Ljubljana"
+	},
+	{
+		"country_name" : "Solomon Islands",
+		"capital_city" : "Honiara",
+		"country_short_code" : "SB",
+		"country_emoji" : "🇸🇧",
+		"timezone" : "Pacific\/Guadalcanal"
+	},
+	{
+		"country_name" : "Somalia",
+		"capital_city" : "Mogadishu",
+		"country_short_code" : "SO",
+		"country_emoji" : "🇸🇴",
+		"timezone" : "Africa\/Mogadishu"
+	},
+	{
+		"country_name" : "South Africa",
+		"capital_city" : "Pretoria",
+		"country_short_code" : "ZA",
+		"country_emoji" : "🇿🇦",
+		"timezone" : "Africa\/Johannesburg"
+	},
+	{
+		"country_name" : "South Georgia and South Sandwich Islands",
+		"capital_city" : "Grytviken",
+		"country_short_code" : "GS",
+		"country_emoji" : "🇬🇸",
+		"timezone" : "Etc\/GMT+2"
+	},
+	{
+		"country_name" : "South Korea",
+		"capital_city" : "Seoul",
+		"country_short_code" : "KR",
+		"country_emoji" : "🇰🇷",
+		"timezone" : "Asia\/Seoul"
+	},
+	{
+		"country_name" : "South Sudan",
+		"capital_city" : "Juba",
+		"country_short_code" : "SS",
+		"country_emoji" : "🇸🇸",
+		"timezone" : "Etc\/GMT-2"
+	},
+	{
+		"country_name" : "Spain",
+		"capital_city" : "Madrid",
+		"country_short_code" : "ES",
+		"country_emoji" : "🇪🇸",
+		"timezone" : "Europe\/Madrid"
+	},
+	{
+		"country_name" : "Sri Lanka",
+		"capital_city" : "Sri Jayawardenapura Kotte",
+		"country_short_code" : "LK",
+		"country_emoji" : "🇱🇰",
+		"timezone" : "Asia\/Colombo"
+	},
+	{
+		"country_name" : "St Helena, Ascension and Tristan da Cunha",
+		"capital_city" : "Jamestown",
+		"country_short_code" : "SH",
+		"country_emoji" : "🇸🇭",
+		"timezone" : "GMT"
+	},
+	{
+		"country_name" : "St Kitts and Nevis",
+		"capital_city" : "Basseterre",
+		"country_short_code" : "KN",
+		"country_emoji" : "🇰🇳",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "St Lucia",
+		"capital_city" : "Castries",
+		"country_short_code" : "LC",
+		"country_emoji" : "🇱🇨",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "St Maarten",
+		"capital_city" : "Philipsburg",
+		"country_short_code" : "SX",
+		"country_emoji" : "🇸🇽",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "St Martin and St Barthélemy",
+		"capital_city" : "Gustavia",
+		"country_short_code" : "MF",
+		"country_emoji" : "🇲🇫",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "St Pierre and Miquelon",
+		"capital_city" : "Saint-Pierre",
+		"country_short_code" : "PM",
+		"country_emoji" : "🇵🇲",
+		"timezone" : "Etc\/GMT+3"
+	},
+	{
+		"country_name" : "St Vincent and the Grenadines",
+		"capital_city" : "Kingstown",
+		"country_short_code" : "VC",
+		"country_emoji" : "🇻🇨",
+		"timezone" : "Etc\/GMT+4"
+	},
+	{
+		"country_name" : "Sudan",
+		"capital_city" : "Khartoum",
+		"country_short_code" : "SD",
+		"country_emoji" : "🇸🇩",
+		"timezone" : "Africa\/Khartoum"
+	},
+	{
+		"country_name" : "Suriname",
+		"capital_city" : "Paramaribo",
+		"country_short_code" : "SR",
+		"country_emoji" : "🇸🇷",
+		"timezone" : "America\/Paramaribo"
+	},
+	{
+		"country_name" : "Sweden",
+		"capital_city" : "Stockholm",
+		"country_short_code" : "SE",
+		"country_emoji" : "🇸🇪",
+		"timezone" : "Europe\/Stockholm"
+	},
+	{
+		"country_name" : "Switzerland",
+		"capital_city" : "Bern",
+		"country_short_code" : "CH",
+		"country_emoji" : "🇨🇭",
+		"timezone" : "Europe\/Zurich"
+	},
+	{
+		"country_name" : "Syria",
+		"capital_city" : "Damascus",
+		"country_short_code" : "SY",
+		"country_emoji" : "🇸🇾",
+		"timezone" : "Asia\/Damascus"
+	},
+	{
+		"country_name" : "Taiwan",
+		"capital_city" : "Taipei City",
+		"country_short_code" : "TW",
+		"country_emoji" : "🇹🇼",
+		"timezone" : "Asia\/Taipei"
+	},
+	{
+		"country_name" : "Tajikistan",
+		"capital_city" : "Dushanbe",
+		"country_short_code" : "TJ",
+		"country_emoji" : "🇹🇯",
+		"timezone" : "Asia\/Dushanbe"
+	},
+	{
+		"country_name" : "Tanzania",
+		"capital_city" : "Dodoma",
+		"country_short_code" : "TZ",
+		"country_emoji" : "🇹🇿",
+		"timezone" : "Africa\/Dar_es_Salaam"
+	},
+	{
+		"country_name" : "Thailand",
+		"capital_city" : "Bangkok",
+		"country_short_code" : "TH",
+		"country_emoji" : "🇹🇭",
+		"timezone" : "Asia\/Bangkok"
+	},
+	{
+		"country_name" : "The Bahamas",
+		"capital_city" : "Nassau",
+		"country_short_code" : "BS",
+		"country_emoji" : "🇧🇸",
+		"timezone" : "America\/Nassau"
+	},
+	{
+		"country_name" : "The Gambia",
+		"capital_city" : "Banjul",
+		"country_short_code" : "GM",
+		"country_emoji" : "🇬🇲",
+		"timezone" : "Africa\/Banjul"
+	},
+	{
+		"country_name" : "The Occupied Palestinian Territories",
+		"capital_city" : "N\/A",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Etc\/GMT-2"
+	},
+	{
+		"country_name" : "Timor-Leste",
+		"capital_city" : "Dili",
+		"country_short_code" : "TL",
+		"country_emoji" : "🇹🇱",
+		"timezone" : "Asia\/Dili"
+	},
+	{
+		"country_name" : "Togo",
+		"capital_city" : "Lomé",
+		"country_short_code" : "TG",
+		"country_emoji" : "🇹🇬",
+		"timezone" : "Africa\/Lome"
+	},
+	{
+		"country_name" : "Tonga",
+		"capital_city" : "Nukuʻalofa",
+		"country_short_code" : "TO",
+		"country_emoji" : "🇹🇴",
+		"timezone" : "Pacific\/Tongatapu"
+	},
+	{
+		"country_name" : "Trinidad and Tobago",
+		"capital_city" : "Port of Spain",
+		"country_short_code" : "TT",
+		"country_emoji" : "🇹🇹",
+		"timezone" : "America\/Port_of_Spain"
+	},
+	{
+		"country_name" : "Tunisia",
+		"capital_city" : "Tunis",
+		"country_short_code" : "TN",
+		"country_emoji" : "🇹🇳",
+		"timezone" : "Africa\/Tunis"
+	},
+	{
+		"country_name" : "Turkey",
+		"capital_city" : "Ankara",
+		"country_short_code" : "TR",
+		"country_emoji" : "🇹🇷",
+		"timezone" : "Europe\/Istanbul"
+	},
+	{
+		"country_name" : "Turkmenistan",
+		"capital_city" : "Ashgabat",
+		"country_short_code" : "TM",
+		"country_emoji" : "🇹🇲",
+		"timezone" : "Asia\/Ashgabat"
+	},
+	{
+		"country_name" : "Turks and Caicos Islands",
+		"capital_city" : "Cockburn Town",
+		"country_short_code" : "TC",
+		"country_emoji" : "🇹🇨",
+		"timezone" : "Etc\/GMT+5"
+	},
+	{
+		"country_name" : "Tuvalu",
+		"capital_city" : "Funafuti",
+		"country_short_code" : "TV",
+		"country_emoji" : "🇹🇻",
+		"timezone" : "Pacific\/Funafuti"
+	},
+	{
+		"country_name" : "Uganda",
+		"capital_city" : "Kampala",
+		"country_short_code" : "UG",
+		"country_emoji" : "🇺🇬",
+		"timezone" : "Africa\/Kampala"
+	},
+	{
+		"country_name" : "Ukraine",
+		"capital_city" : "Kiev",
+		"country_short_code" : "UA",
+		"country_emoji" : "🇺🇦",
+		"timezone" : "Europe\/Kiev"
+	},
+	{
+		"country_name" : "United Arab Emirates",
+		"capital_city" : "Abu Dhabi",
+		"country_short_code" : "AE",
+		"country_emoji" : "🇦🇪",
+		"timezone" : "Asia\/Dubai"
+	},
+	{
+		"country_name" : "United States (USA)",
+		"capital_city" : "Washington, D.C.",
+		"country_short_code" : "US",
+		"country_emoji" : "🇺🇸",
+		"timezone" : "US\/Pacific"
+	},
+	{
+		"country_name" : "Uruguay",
+		"capital_city" : "Montevideo",
+		"country_short_code" : "UY",
+		"country_emoji" : "🇺🇾",
+		"timezone" : "America\/Montevideo"
+	},
+	{
+		"country_name" : "Uzbekistan",
+		"capital_city" : "Tashkent",
+		"country_short_code" : "UZ",
+		"country_emoji" : "🇺🇿",
+		"timezone" : "Asia\/Tashkent"
+	},
+	{
+		"country_name" : "Vanuatu",
+		"capital_city" : "Port Vila",
+		"country_short_code" : "VU",
+		"country_emoji" : "🇻🇺",
+		"timezone" : "Pacific\/Efate"
+	},
+	{
+		"country_name" : "Venezuela",
+		"capital_city" : "Caracas",
+		"country_short_code" : "VE",
+		"country_emoji" : "🇻🇪",
+		"timezone" : "America\/Caracas"
+	},
+	{
+		"country_name" : "Vietnam",
+		"capital_city" : "Hanoi",
+		"country_short_code" : "VN",
+		"country_emoji" : "🇻🇳",
+		"timezone" : "Asia\/Saigon"
+	},
+	{
+		"country_name" : "Wallis and Futuna",
+		"capital_city" : "Mata-Utu",
+		"country_short_code" : "WF",
+		"country_emoji" : "🇼🇫",
+		"timezone" : "Etc\/GMT-12"
+	},
+	{
+		"country_name" : "Western Sahara",
+		"capital_city" : "El Aaiún",
+		"country_short_code" : "EH",
+		"country_emoji" : "🇪🇭",
+		"timezone" : "Etc\/GMT-1"
+	},
+	{
+		"country_name" : "Yemen",
+		"capital_city" : "Sanaá",
+		"country_short_code" : "YE",
+		"country_emoji" : "🇾🇪",
+		"timezone" : "Asia\/Aden"
+	},
+	{
+		"country_name" : "Zambia",
+		"capital_city" : "Lusaka",
+		"country_short_code" : "ZM",
+		"country_emoji" : "🇿🇲",
+		"timezone" : "Africa\/Lusaka"
+	},
+	{
+		"country_name" : "Zimbabwe",
+		"capital_city" : "Harare",
+		"country_short_code" : "ZW",
+		"country_emoji" : "🇿🇼",
+		"timezone" : "Africa\/Harare"
+	},
+	{
+		"country_name" : "Ireland",
+		"capital_city" : "Dublin",
+		"country_short_code" : "IE",
+		"country_emoji" : "🇮🇪",
+		"timezone" : "Europe\/Dublin"
+	},
+	{
+		"country_name" : "Northen Cyprus",
+		"capital_city" : "North Nicosia",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Asia\/Nicosia"
+	},
+	{
+		"country_name" : "Somaliland",
+		"capital_city" : "Hargeisa",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Africa\/Mogadishu"
+	},
+	{
+		"country_name" : "Vatican",
+		"capital_city" : "Vatican City",
+		"country_short_code" : "VA",
+		"country_emoji" : "🇻🇦",
+		"timezone" : "Europe\/Vatican"
+	},
+	{
+		"country_name" : "Kashmir",
+		"capital_city" : "Srinagar\/Jammu",
+		"country_short_code" : null,
+		"country_emoji" : "🏳️",
+		"timezone" : "Asia\/Kolkata"
+	}
+]}
